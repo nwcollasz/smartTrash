@@ -29,3 +29,12 @@ Protótipo desenvolvido com Arduino Uno para identificar objetos metálicos e au
 2. Conecte o Arduino Uno ao computador.
 3. Selecione a placa e a porta corretas.
 4. Clique em **Upload**.
+
+## Fotos reais do projeto
+<img width="504" height="304" alt="unnamed" src="https://github.com/user-attachments/assets/716cd27f-89f8-49d4-8e1c-79cb6d69b1bd" />
+
+<img width="304" height="304" alt="unnamed" src="https://github.com/user-attachments/assets/a78e8fcb-916c-472c-bbe7-2afd29c569d8" />
+
+https://github.com/user-attachments/assets/e14675c4-87ca-4c1a-bfbf-88ae7a9a3185
+
+
