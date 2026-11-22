@@ -1,4 +1,3 @@
-
 #include <Servo.h>
 
 Servo tampa;
@@ -72,6 +71,9 @@ void loop() {
         digitalWrite(PIN_LED_VERMELHO, LOW);
 
         Serial.println("Tampa aberta - LED verde ligado.");
+      } else {
+        instanteAbertura = agora;
+        Serial.println("Novo metal detectado - tempo de abertura renovado.");
       }
     }
 
